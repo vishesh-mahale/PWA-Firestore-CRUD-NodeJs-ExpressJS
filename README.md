@@ -1,3 +1,4 @@
+
 # PWA-Firestore-CRUD-NodeJs-ExpressJS
 This Node App performs CRUD operation on Firestore Database using Express Framework. 
 <br>
@@ -32,22 +33,19 @@ https://pwa-firestore-crud-node-js-express-js-dg99-r5t32x8vy.vercel.app/api/item
 This project is mainly aimed to Perform CRUD operations on Firestore and to Showcase the feature of PWA using the powerful framework Angular. 
 It has also used Node.JS, ExpressJS, CRUD, Firestore(Firebase), and REST APIs.
 
-## Tech Stack
- 	1. Angular 16
-	2. Node.JS  
-	3. ExpressJS
-	4. REST APIs
-	5. Firebase: Firestore
-    6. Firebase cloud messaging
-    7. Chrome Browser
-    8. Postman
-    9. VS code
-
-## Comments
-This App can be reused to perform CRUD operations on Firestore.
-
 ## Screenshots
 
+## ⚙ Features of the Angular- Progressive Web Application:
+
+| Step 1: Angular app gets <br> installed in our mobile <br>as native app.  | Step 2: App is opening. | Step3: Home page is displayed. |
+| ------- | -------------       | - |
+ | <img src="./images_readme/13.jpg"  height="550"> | <img src="./images_readme/12.jpg"  height="550"> |  <img src="./images_readme/6.jpg"  height="550"> |
+ |  |  |  |
+ | **Step 4: The app is asking the name <br>of the user for sending<br> the Push notification.** | **Step 5: Push Notification Received<br>from server using FCM.**| **Step 6: The app is asking the<br> permission to install the app.** |
+ | <img src="./images_readme/8.jpg"  height="550"> | <img src="./images_readme/11.jpg"  height="550"> |  <img src="./images_readme/1.jpg"  height="550"> |
+
+<br>
+ 
 **CODE STRUCTURE:**
 
 ![image](https://github.com/vishesh-mahale/PWA-Firestore-CRUD-NodeJs-ExpressJS/assets/55619589/da91f909-96c2-4362-bbbe-ca198e7334de)
@@ -75,6 +73,22 @@ This App can be reused to perform CRUD operations on Firestore.
 <br>
 
 ![image](https://github.com/vishesh-mahale/PWA-Firestore-CRUD-NodeJs-ExpressJS/assets/55619589/3c9d14a1-bcc4-4609-a39b-d81a08a7cea2)
+
+<br>
+
+## Tech Stack
+ 	1. Angular 16
+	2. Node.JS  
+	3. ExpressJS
+	4. REST APIs
+	5. Firebase: Firestore
+    6. Firebase cloud messaging
+    7. Chrome Browser
+    8. Postman
+    9. VS code
+
+## Comments
+This App can be reused to perform CRUD operations on Firestore.
 
 <br>
 
