@@ -45,6 +45,14 @@ This App can be reused to perform CRUD operations on Firestore.
 
 ## Screenshots
 
+**CODE STRUCTURE:**
+
+![image](https://github.com/vishesh-mahale/PWA-Firestore-CRUD-NodeJs-ExpressJS/assets/55619589/da91f909-96c2-4362-bbbe-ca198e7334de)
+
+<br> 
+
+**POSTMAN APIs:**
+
 ![image](https://github.com/vishesh-mahale/PWA-Firestore-CRUD-NodeJs-ExpressJS/assets/55619589/999d84ed-ac53-40f5-bd7e-27b0418facd3)
 
 <br>  
