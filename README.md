@@ -165,6 +165,8 @@ To call this API, you will need to add the below environment variables.
  DELETE  /api/items/{{ID}}
 ```
 
+<br>
+
 #### **Send Push Notification:**
 #### Send Push Notification by passing the tokens array and the additional parameters as a payload:
 ```http
